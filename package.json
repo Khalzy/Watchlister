@@ -3,7 +3,11 @@
     "axios": "^0.21.0",
     "react-alice-carousel": "^2.1.0",
     "react-player": "^2.7.0",
+    "react-responsive-carousel": "^3.2.11",
     "react-router-dom": "^5.2.0",
     "styled-components": "^5.2.1"
+  },
+  "devDependencies": {
+    "@storybook/addon-knobs": "^6.1.10"
   }
 }
